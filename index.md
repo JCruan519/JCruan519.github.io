@@ -10,5 +10,5 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 - School of Electronic Information and Electrical Engineering, SJTU
 - Email: jackchenruan@sjtu.edu.cn or jcruan@163.com
 ## Paper list
-- *2022.10.21* **[BIBM2022]** 'MALUNet: A Muti-Attention and Light-weight UNet for Skin Lesion Segmentation', Jiacheng Ruan, Suncheng Xiang, Mingye Xie, Ting Liu and Yuzhuo Fu.
-- *2022.10.25* **[ARXIV22]** '[MEW-UNet: Multi-axis representation learning in frequency domain for medical image segmentation]()', Jiacheng Ruan, Mingye Xie, Suncheng Xiang, Ting Liu and Yuzhuo Fu.
+- *2022.10.21* **[BIBM2022]** 'MALUNet: A Muti-Attention and Light-weight UNet for Skin Lesion Segmentation', **Jiacheng Ruan**, Suncheng Xiang, Mingye Xie, Ting Liu and Yuzhuo Fu.
+- *2022.10.25* **[ARXIV22]** '[MEW-UNet: Multi-axis representation learning in frequency domain for medical image segmentation](http://arxiv.org/abs/2210.14007)', **Jiacheng Ruan**, Mingye Xie, Suncheng Xiang, Ting Liu and Yuzhuo Fu.
