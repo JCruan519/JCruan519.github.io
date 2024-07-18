@@ -16,7 +16,7 @@ ACM Multimedia 2024. (CCF-A)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/VMUNET.png' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/LLAMAMOE.png' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 [**LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training**](https://arxiv.org/abs/2406.16554)
