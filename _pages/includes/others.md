@@ -14,13 +14,14 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-- Annual Meeting of the Association for Computational Linguistics (ACL 2024)
-- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)
-- ACM International Conference on Multimedia (ACM MM 2023)
-- International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023-2024)
-- Journal Reviewer of International Journal of Computer Vision
-- Journal Reviewer of Expert Systems with Applications
-- Journal Reviewer of IEEE Transactions on Medical Imaging
+- Reviewer for the Conference on Neural Information Processing Systems (NeurIPS 2024)
+- Reviewer for ACM International Conference on Multimedia (ACM MM 2024)
+- Reviewer for International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2023, 2024)
+- Reviewer for International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023, 2024)
+- Reviewer for International Conference on Multimedia and Expo (ICME 2024)
+- TPC member for International Joint Conference on Neural Networks (IJCNN 2024)
+- Journal Reviewer for NeuroComputing
+- Journal Reviewer of IEEE Journal of Biomedical and Health Informatics
 </div>
 
 
