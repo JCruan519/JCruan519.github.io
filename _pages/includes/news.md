@@ -1,6 +1,8 @@
 # 🔥 News
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
+- [08/2024] I will serve as a reviewer for IEEE TNNLS.
+- [08/2024] I will serve as a reviewer for ICASSP 2025.
 - [07/2024] One paper gets accepted by ACM MM 2024.
 - [06/2024] I will serve as a reviewer for NeurIPS 2024.
 - [05/2024] I will serve as a reviewer for ACM MM 2024.
