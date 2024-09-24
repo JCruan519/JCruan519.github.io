@@ -23,7 +23,7 @@ ACM Multimedia 2024. (CCF-A)
 
 Tong Zhu, Xiaoye Qu, Daize Dong, **Jiacheng Ruan**, Jingqi Tong, Conghui He, Yu Cheng
 \\
-arXiv preprint arXiv:2406.16554, 2024.
+The 2024 Conference on Empirical Methods in Natural Language Processing (**EMNLP Main**), 2024. (CCF-B)
 
 📄 [**Paper**](https://arxiv.org/abs/2406.16554) 💻 [**Project**](https://github.com/pjlab-sys4nlp/llama-moe) 
 

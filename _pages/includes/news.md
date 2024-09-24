@@ -1,6 +1,9 @@
 # 🔥 News
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
+- [09/2024] One paper gets accepted by Machine Learning Journal.
+- [09/2024] One paper gets accepted by EMNLP 2024.
+- [09/2024] I will serve as a reviewer for ICLR 2025.
 - [08/2024] I will serve as a reviewer for IEEE TNNLS.
 - [08/2024] I will serve as a reviewer for ICASSP 2025.
 - [07/2024] One paper gets accepted by ACM MM 2024.
