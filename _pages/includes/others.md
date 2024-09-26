@@ -24,6 +24,7 @@
 - Journal Reviewer for NeuroComputing
 - Journal Reviewer of IEEE Journal of Biomedical and Health Informatics
 - Journal Reviewer of IEEE Transactions on Neural Networks and Learning Systems
+- Journal Reviewer of IEEE Transactions on Medical Imaging
 </div>
 
 

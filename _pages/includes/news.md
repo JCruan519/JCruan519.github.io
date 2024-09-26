@@ -1,6 +1,7 @@
 # 🔥 News
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
+- [09/2024] I will serve as a reviewer for IEEE Transactions on Medical Imaging
 - [09/2024] One paper gets accepted by Machine Learning Journal.
 - [09/2024] One paper gets accepted by EMNLP 2024.
 - [09/2024] I will serve as a reviewer for ICLR 2025.
