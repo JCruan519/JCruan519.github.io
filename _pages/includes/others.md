@@ -14,6 +14,7 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
+- Reviewer for The 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)
 - Reviewer for The Thirteenth International Conference on Learning Representations (ICLR 2025)
 - Reviewer for the Conference on Neural Information Processing Systems (NeurIPS 2024)
 - Reviewer for ACM International Conference on Multimedia (ACM MM 2024)
@@ -24,6 +25,7 @@
 - Journal Reviewer for NeuroComputing
 - Journal Reviewer of IEEE Journal of Biomedical and Health Informatics
 - Journal Reviewer of IEEE Transactions on Neural Networks and Learning Systems
+- Journal Reviewer for PLOS ONE
 - Journal Reviewer of IEEE Transactions on Medical Imaging
 </div>
 

@@ -1,12 +1,14 @@
 # 🔥 News
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
+- [10/2024] I will serve as a reviewer for AISTATS 2025.
 - [09/2024] I will serve as a reviewer for IEEE Transactions on Medical Imaging.
 - [09/2024] One paper gets accepted by Machine Learning Journal.
 - [09/2024] One paper gets accepted by EMNLP 2024.
 - [09/2024] I will serve as a reviewer for ICLR 2025.
 - [08/2024] I will serve as a reviewer for IEEE TNNLS.
 - [08/2024] I will serve as a reviewer for ICASSP 2025.
+- [07/2024] I will serve as a reviewer for PLOS ONE.
 - [07/2024] One paper gets accepted by ACM MM 2024.
 - [06/2024] I will serve as a reviewer for NeurIPS 2024.
 - [05/2024] I will serve as a reviewer for ACM MM 2024.
