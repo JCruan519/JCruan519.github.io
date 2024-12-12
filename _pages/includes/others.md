@@ -14,6 +14,7 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
+- Reviewer for The Forty-second International Conference on Machine Learning (ICML 2025)
 - Reviewer for The 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)
 - Reviewer for The Thirteenth International Conference on Learning Representations (ICLR 2025)
 - Reviewer for the Conference on Neural Information Processing Systems (NeurIPS 2024)

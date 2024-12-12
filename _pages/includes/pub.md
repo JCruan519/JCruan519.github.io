@@ -1,5 +1,20 @@
 
-# 📝 Publications 
+# 📝 Selected Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/MM_CAMOBJ.png' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box-text' style="font-size: larger;" markdown="1">
+
+[**MM-CamObj: A Comprehensive Multimodal Dataset for Camouflaged Object Scenarios**](https://arxiv.org/pdf/2409.16084)
+
+**Jiacheng Ruan**, Wenzhen Yuan, Zehao Lin, Ning Liao, Zhiyu Li, Feiyu Xiong, Ting Liu and Yuzhuo Fu
+\\
+AAAI 2025. (CCF-A)
+
+📄 [**Paper**](https://arxiv.org/pdf/2409.16084) 💻 [**Project**](https://github.com/JCruan519/MM-CamObj) 
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/GIST.png' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
