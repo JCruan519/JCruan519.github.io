@@ -2,6 +2,8 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
+- **[07/2025] One papers get accepted by ACM MM 2025.**
+- **[06/2025] One papers get accepted by ICCV 2025.**
 - **[12/2024] Two papers get accepted by AAAI 2025.**
 - [12/2024] I will serve as a reviewer for ICML 2025.
 - [10/2024] I will serve as a reviewer for AISTATS 2025.
