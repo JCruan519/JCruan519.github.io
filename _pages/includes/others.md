@@ -28,6 +28,8 @@
 - Journal Reviewer of IEEE Transactions on Neural Networks and Learning Systems
 - Journal Reviewer for PLOS ONE
 - Journal Reviewer of IEEE Transactions on Medical Imaging
+- Journal Reviewer of IEEE Signal Processing Letters
+
 </div>
 
 
