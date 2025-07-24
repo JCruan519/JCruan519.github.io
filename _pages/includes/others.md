@@ -46,7 +46,9 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-- **2024.01 - Now**, Institute for Advanced Algorithms Research, Shanghai.
+- **2024.11 - 2025.06**, Xiaohongshu Inc., Shanghai.
+
+- **2024.01 - 2024.11**, Institute for Advanced Algorithms Research, Shanghai.
 
 - **2023.07 - 2024.01**, Shanghai AI Lab, Shanghai.
 
