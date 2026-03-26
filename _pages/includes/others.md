@@ -14,21 +14,8 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-- Reviewer for The Forty-second International Conference on Machine Learning (ICML 2025)
-- Reviewer for The 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)
-- Reviewer for The Thirteenth International Conference on Learning Representations (ICLR 2025)
-- Reviewer for the Conference on Neural Information Processing Systems (NeurIPS 2024)
-- Reviewer for ACM International Conference on Multimedia (ACM MM 2024)
-- Reviewer for International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2023, 2024)
-- Reviewer for International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023, 2024, 2025)
-- Reviewer for International Conference on Multimedia and Expo (ICME 2024)
-- TPC member for International Joint Conference on Neural Networks (IJCNN 2024)
-- Journal Reviewer for NeuroComputing
-- Journal Reviewer of IEEE Journal of Biomedical and Health Informatics
-- Journal Reviewer of IEEE Transactions on Neural Networks and Learning Systems
-- Journal Reviewer for PLOS ONE
-- Journal Reviewer of IEEE Transactions on Medical Imaging
-- Journal Reviewer of IEEE Signal Processing Letters
+- Reviewer for AISTATS 26，AAAI 26，ICML 25，ICLR 25-26，NeurIPS 24-25，ACL ARR 25，ICCV 25，ACM MM 24-25，MICCAI 23-25，ICASSP 23-25，ICME 24
+- Journal Reviewer for IEEE TMI (Outstanding Reviewer)，Neurocomputing，IEEE JBHI，IEEE TNNLS，IEEE TIP，IEEE TCVST，IJCV，ESWA，JDIM，EAAI
 
 </div>
 
@@ -46,11 +33,13 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-- **2024.11 - 2025.06**, Xiaohongshu Inc., Shanghai.
+- **2025.06 - 2026.03**, ByteDance, Shanghai. Research on foundation models for video safety moderation and video risk-frame selection.
 
-- **2024.01 - 2024.11**, Institute for Advanced Algorithms Research, Shanghai.
+- **2024.11 - 2025.06**, Xiaohongshu Inc., Shanghai. Research on multimodal understanding and multimodal reward models.
 
-- **2023.07 - 2024.01**, Shanghai AI Lab, Shanghai.
+- **2024.01 - 2024.11**, Institute for Advanced Algorithms Research, Shanghai. Research on applications of multimodal large language models in camouflaged scenarios.
+
+- **2023.07 - 2024.01**, Shanghai AI Lab, Shanghai. Research on MoE architectures and efficient Transformer pre-training paradigms.
 
 </div>
 

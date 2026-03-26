@@ -2,6 +2,7 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
+* **National Scholarship** in 2025
 * **Yang Jiachi Scholarship** in 2024
 * **Outstanding Graduate of Shaanxi Province** in 2022
 * Special Merit Scholarship for Graduates in 2022
