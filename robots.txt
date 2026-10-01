@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jcruan519.github.io/sitemap.xml

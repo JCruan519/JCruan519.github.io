@@ -1,72 +1,34 @@
+# Jiacheng Ruan’s academic homepage
 
-<h1 align="center">
-AcadHomepage
-</h1>
+A lightweight academic profile at <https://jcruan519.github.io/>, redesigned in October 2026. The page uses static HTML, local CSS, and a small progressive-enhancement script. It requires no npm packages, remote fonts, analytics, or browser-side content fetching.
 
-<div align="center">
+## Preview
 
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
-</div>
+Run `sh run_server.sh` from this directory, then open <http://127.0.0.1:8000/>. An optional first argument sets the port. The page also works directly from `index.html`.
 
-<p align="center">A Modern and Responsive Academic Personal Homepage</p>
+GitHub Pages continues to use the existing managed build from `main`. `_config.yml` excludes the previous template so it cannot generate a second homepage. The new files need no Jekyll theme or plugins. No hosting settings have changed.
 
-<p align="center">
-    <br>
-    <img src="docs/screenshot.png" width="100%"/>
-    <br>
-</p>
+## Maintain
 
-Some examples:
-- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
-- [Personal Homepage of the author](https://rayeren.github.io/)
+- `index.html`: biography, research, news, publication records, experience, honors, service, metadata.
+- `assets/css/home.css`: responsive layout, colors, typography, print styling.
+- `assets/js/home.js`: publication filters, mobile menu, active section navigation. All content remains available without JavaScript.
+- `images/publications/`: locally rendered and compressed authored paper figures.
+- `about/index.html` and `about.html`: preserve previous homepage links.
+- `sitemap.xml`: update `lastmod` when updating the page, along with the visible footer date.
 
-## Key Features
-- **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
-- **Support Google analytics**: you can trace the traffics of your homepage by easy configuration.
-- **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
-- **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
-- **SEO**: search Engine Optimization (SEO) helps search engines find the information you publish on your homepage easily, then rank it against similar websites.
+Each publication is an HTML `article.paper`. Use `data-topics` with space-separated values from `learning`, `multimodal`, `evaluation`, and `medical` to set its filters. Put additional work in the expandable publication list. Cite the public title and author order, label preprints explicitly, and add only working public links. Asterisks mark equal contribution.
 
-## Quick Start
+The original template files remain in the repository for reference and are excluded from deployment; edits to them no longer affect the new homepage.
 
-1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
-1. Configure the google scholar citation crawler:
-    1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
-    1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
-    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
-1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
-1. Modify the configuration of your homepage `_config.yml`:
-    1. `title`: the title of your homepage
-    1. `description`: the description of your homepage
-    1. `repository`: USER_NAME/REPO_NAME  
-    1. `google_analytics_id` (optional): google analytics ID
-    1. SEO Related keys (optional): get these keys from search engine consoles (e.g. Google, Bing and Baidu) and paste here.
-    1. `author`: the author information of this homepage, including some other websites, emails, city and univeristy.
-    1. More configuration details are described in the comments.
-1. Add your homepage content in `_pages/about.md`.
-    1. You can use html+markdown syntax just same as jekyll.
-    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
-        ```html
-        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
-        ``` 
-        > Q: How to get the google scholar paper ID?   
-        > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
-1. Your page will be published at `https://USERNAME.github.io`.
+## October 2026 content update
 
-## Debug Locally
+The revised profile emphasizes efficient post-training, multimodal reasoning, and evaluation. New results include the COPD preprint and MMGist (EMNLP 2026 Findings, accepted), ExFusion (IEEE TMM 2026), MME-SCI (AAAI 2026), VLRMBench (ICCV 2025), MPI-CD (ACM MM 2025), and TTE (AAAI 2025). Additional 2026 collaborations MEMO and Edit2TikZ are in the expandable list, with core figures extracted from their public papers. The current research internship is Qwen Team, Alibaba Group (April 2026–present), focusing on multimodal large language model post-training. MMGist acceptance and the Qwen internship were confirmed directly by the user on October 1, 2026.
 
-1. Clone your REPO to local using `git clone`.
-1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
-1. Run `bash run_server.sh` to start Jekyll livereload server.
-1. Open http://127.0.0.1:4000 in your browser.
-1. If you change the source code of the website, the livereload server will automatically refresh.
-1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
+VM-UNet is updated to ACM TOMM 2025 with its published three-author list. GIST uses the published eight-author list. Metadata was checked against public arXiv, Crossref DOI, GitHub, and CVF records on October 1, 2026. The biography and academic service sections reflect the author’s latest confirmed professional information. Only confirmed awards are listed.
 
-# Acknowledges
+## Attribution
 
-- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
-- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
-- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+The previous AcadHomepage template and its license remain in this repository. The new homepage layout is implemented directly for this profile.
+
+The profile uses “Ph.D. candidate” and “Wu Wenjun AI Honors Ph.D. Class”, with no advisor line, as requested by the author. Public GitHub and Hugging Face resources were checked against official repository READMEs and model/dataset cards. HF resources cover MME-SCI, VLRMBench, MM-CamObj, and LLaMA-MoE; VM-UNet weights and the MALUNet adaptation are explicitly labeled as a community mirror/model. MMGist was accepted in August 2026. Its official Hugging Face dataset link is included at the author’s explicit request; current unauthenticated access may require permissions.
